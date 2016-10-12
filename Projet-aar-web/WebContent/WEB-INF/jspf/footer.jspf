@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!-- <div class="container"> -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="<c:url value="/webjars/jquery/1.11.1/jquery.min.js"/>"> </script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="<c:url value="/webjars/bootstrap/3.3.6/js/bootstrap.min.js"/>"> </script>
+
+
+</body>
+</html>
